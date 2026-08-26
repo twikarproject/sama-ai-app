@@ -1,0 +1,39 @@
+:root {
+  --color-text: #383838;
+  --color-bg: #ffffff;
+  --color-surface: #f7f7f7;
+  --color-divider: #e4e4e4;
+
+  --color-accent: #dbea8d;      /* fills only */
+  --color-accent-600: #c7d972;  /* strokes / hairlines */
+  --color-accent-700: #6d7a3a;  /* accent text / icon strokes */
+  --color-accent-200: #f4f8e0;
+  --color-accent-300: #eef4c8;
+  --color-accent-800: #525c2a;
+
+  --color-accent-2: #e96666;       /* coral: live / destructive */
+  --color-accent-2-700: #c04a4a;
+
+  --color-neutral-100: #fafafa;
+  --color-neutral-200: #f1f1f1;
+  --color-neutral-300: #e4e4e4;
+  --color-neutral-400: #c6c6c6;
+  --color-neutral-500: #a8a8a8;
+  --color-neutral-600: #8f8f8f;
+  --color-neutral-700: #6e6e6e;
+  --color-neutral-800: #4a4a4a;
+  --color-neutral-900: #2c2c2c;
+
+  --page-bg: #f1f1f1;
+
+  --font-heading: 'Outfit', system-ui, sans-serif;
+  --font-body: 'Outfit', system-ui, sans-serif;
+  --font-dev: 'Noto Sans Devanagari', 'Outfit', sans-serif;
+
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px; --space-6: 24px; --space-8: 32px;
+  --radius-sm: 8px; --radius-md: 12px; --radius-lg: 16px;
+
+  --shadow-sm: 0 1px 2px rgba(0,0,0,.06);
+  --shadow-md: 0 4px 14px rgba(0,0,0,.08);
+  --shadow-lg: 0 12px 32px rgba(0,0,0,.14);
+}
